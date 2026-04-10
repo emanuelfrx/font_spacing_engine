@@ -1,0 +1,15 @@
+{
+    "name": "Font Spacing Engine",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "mechatroner.rainbow-csv"
+            ]
+        }
+    },
+    "postCreateCommand": "pip install -r requirements.txt"
+}
