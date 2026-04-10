@@ -5,7 +5,7 @@ from src.exporter import generate_full_csv
 import time
 
 # Substitua pela sua chave da API do Google Fonts
-GOOGLE_FONTS_API_KEY = "AIzaSyBsmbj6hGb9Dtqp111B14OxL9YPo9iOwwg"
+GOOGLE_FONTS_API_KEY = "SUA CHAVE"
 
 def main():
     # Lista de fontes
