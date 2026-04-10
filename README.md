@@ -79,10 +79,3 @@ font_spacing_engine/
     └── exporter.py         # Módulo de exportação para CSV
 ```
 
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests no repositório.
-
-## Licença
-
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes. 
